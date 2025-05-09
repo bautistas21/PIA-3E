@@ -1,0 +1,40 @@
+2025-05-09 12:47:52,544 - INFO - Inicio de la aplicación de Ciberseguridad
+2025-05-09 12:48:03,718 - INFO - Opción seleccionada: 1
+2025-05-09 12:48:03,718 - INFO - Inicio de consulta de IP
+2025-05-09 12:48:05,104 - INFO - IPs obtenidas - Pública: 189.219.248.39, Local: 192.168.0.14
+2025-05-09 12:48:09,177 - INFO - Opción seleccionada: 2
+2025-05-09 12:48:09,177 - INFO - Inicio de escaneo de puertos
+2025-05-09 12:48:17,714 - INFO - Iniciando escaneo en google.com desde puerto 79 hasta 81
+2025-05-09 12:48:18,274 - INFO - Escaneo de puertos completado
+2025-05-09 12:48:22,484 - INFO - Opción seleccionada: 3
+2025-05-09 12:48:22,484 - INFO - Inicio de consulta Shodan
+2025-05-09 12:48:38,114 - INFO - Consultando Shodan para IP: 8.8.8.8
+2025-05-09 12:48:38,454 - INFO - Consulta Shodan completada
+2025-05-09 12:48:58,886 - INFO - Opción seleccionada: 3
+2025-05-09 12:48:58,886 - INFO - Inicio de consulta Shodan
+2025-05-09 12:49:04,809 - INFO - Consultando Shodan para IP: 8.8.8.8
+2025-05-09 12:49:05,164 - INFO - Consulta Shodan completada
+2025-05-09 12:54:53,135 - INFO - Opción seleccionada: 3
+2025-05-09 12:54:53,135 - INFO - Inicio de consulta Shodan
+2025-05-09 12:55:18,708 - INFO - Consultando Shodan para IP: 208.65.153.238
+2025-05-09 12:55:20,033 - INFO - Consulta Shodan completada
+2025-05-09 12:55:35,493 - INFO - Opción seleccionada: 3
+2025-05-09 12:55:35,493 - INFO - Inicio de consulta Shodan
+2025-05-09 12:55:41,283 - INFO - Consultando Shodan para IP: 208.65.153.238
+2025-05-09 12:55:41,663 - INFO - Consulta Shodan completada
+2025-05-09 12:55:44,937 - INFO - Opción seleccionada: 3
+2025-05-09 12:55:44,937 - INFO - Inicio de consulta Shodan
+2025-05-09 12:55:47,378 - INFO - Consultando Shodan para IP: 208.65.153.238
+2025-05-09 12:55:47,767 - INFO - Consulta Shodan completada
+2025-05-09 12:55:57,423 - INFO - Opción seleccionada: 3
+2025-05-09 12:55:57,423 - INFO - Inicio de consulta Shodan
+2025-05-09 12:56:04,685 - INFO - Consultando Shodan para IP: 208.65.153.238
+2025-05-09 12:56:05,103 - INFO - Consulta Shodan completada
+2025-05-09 12:59:50,523 - INFO - Opción seleccionada: 3
+2025-05-09 12:59:50,523 - INFO - Inicio de consulta Shodan
+2025-05-09 13:00:01,128 - INFO - Consultando Shodan para IP: 23.227.38.74
+2025-05-09 13:00:01,523 - INFO - Consulta Shodan completada
+2025-05-09 13:00:37,884 - INFO - Opción seleccionada: 4
+2025-05-09 13:00:37,884 - INFO - Inicio de consulta AbuseIPDB
+2025-05-09 13:00:55,586 - INFO - Consultando AbuseIPDB para IP: 23.227.38.74 con 100 días de historial
+2025-05-09 13:00:56,013 - INFO - Consulta AbuseIPDB completada
