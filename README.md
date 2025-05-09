@@ -29,6 +29,8 @@ Dentro de esta opción, hay otro sub menú que te permite elegir diferentes tare
   - **Generar Hash:** Genera un hash a partir de una cadena de texto que hayas ingresado, te da la opción de guardar el hash en un diccionario.
   - **Consultar Diccionario:** Te muestra los hashes que hay dentro del diccionario, tú decides cuántos hashes va a mostar.
   - **Buscar Hash dentro de un diccionario:** Se buscará el hash que ingreses dentro de un diccionario, en caso de que haya una coincidencia, se mostrará el texto original.
-  - **Verificar si hay coincidencias del Hash en HaveIBeenPwned:** En caso de que quieras verificar si un hash se encuentra dentro de las brechas conocidas por HaveIBeenPwned, puedes utilizar esta opción, ya que hará uso de su Api para comprobarlo, pidiendote únicamente el hash a verificar, ya que no requiere de Api Key. 
+  - **Verificar si hay coincidencias del Hash en HaveIBeenPwned:** En caso de que quieras verificar si un hash se encuentra dentro de las brechas conocidas por HaveIBeenPwned, puedes utilizar esta opción, ya que hará uso de su Api para comprobarlo, pidiendote únicamente el hash a verificar, ya que no requiere de Api Key.
+### 6-Salir
+Te permite salir del programa.
 
 
